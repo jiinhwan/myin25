@@ -7,6 +7,7 @@ public class HelloWorld {
 		
 		System.out.println("GIT 하이");
 		System.out.println("GIT 하이 리얼 하이");
+		System.out.println("GIT 하이 리얼 하이2");
 	}
 
 }
