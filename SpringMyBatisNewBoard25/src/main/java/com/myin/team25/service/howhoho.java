@@ -6,6 +6,7 @@ public class howhoho {
 		// TODO Auto-generated method stub
 		
 		System.out.println("등등등등");
+		System.out.println("보자기");
 	}
 
 }
