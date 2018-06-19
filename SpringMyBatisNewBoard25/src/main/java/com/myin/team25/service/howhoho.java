@@ -7,6 +7,7 @@ public class howhoho {
 		
 		System.out.println("등등등등");
 		System.out.println("보자기");
+		System.out.println("듣");
 	}
 
 }
